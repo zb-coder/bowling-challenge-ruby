@@ -1,0 +1,32 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/zainabbaruud/Projects/bowling-challenge-ruby/spec/bowling_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          21,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/zainabbaruud/Projects/bowling-challenge-ruby/lib/bowling.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1630527634
+  }
+}
